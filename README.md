@@ -50,20 +50,14 @@
 
 ---
 
-### 📈 GitHub Stats
+<div align="center">
+  <img src="https://raw.githubusercontent.com/saiyam0211/saiyam0211/output/snake.svg" alt="Snake animation" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshikamalhotra&show_icons=true&theme=tokyonight" alt="Harshika's GitHub stats" />
-  <br/>
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshikamalhotra&theme=tokyonight" alt="GitHub Streak" /> -->
-</p>
-
-<!--
 ---
 ### 📫 Connect with Me
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/harshika-malhotra/)
-- 📧 Email: `harshikamalhotra@example.com` *(replace with your actual one)*
 - 🌐 Portfolio: *Coming Soon!* (Working on a personal site)
 -->
 ---
