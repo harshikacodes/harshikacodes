@@ -49,12 +49,6 @@
 - 📚 Writing better documentation and clean code
 
 ---
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/saiyam0211/saiyam0211/output/snake.svg" alt="Snake animation" />
-</div>
-
----
 ### 📫 Connect with Me
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/harshika-malhotra/)
